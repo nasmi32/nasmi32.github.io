@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AboutMe | Academic</title>
+    <link>https://example.com/category/aboutme/</link>
+      <atom:link href="https://example.com/category/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    <description>AboutMe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Apr 2023 13:47:12 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>AboutMe</title>
+      <link>https://example.com/category/aboutme/</link>
+    </image>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week2/</link>
+      <pubDate>Fri, 07 Apr 2023 13:47:12 +0300</pubDate>
+      <guid>https://example.com/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;my-story&#34;&gt;My story&lt;/h2&gt;
+&lt;p&gt;Hello everyone! It is so nice to know you are interested in my life. In this short artcicle I am going to tell you about my past week.&lt;/p&gt;
+&lt;p&gt;So, this week I wasn&amp;rsquo;t as productive as on the previoust one. I fall a bit ill and tried to do two and a half labs, I did a lot of homework and, thus, wasn&amp;rsquo;t able to sleep enough.&lt;/p&gt;
+&lt;p&gt;At the same time, I went to my hometown and visited my family with friends.&lt;/p&gt;
+&lt;p&gt;Hope that it was interesting for you to read.&lt;/p&gt;
+&lt;p&gt;See you next week!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Tue, 14 Mar 2023 14:23:49 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;my-story&#34;&gt;My Story&lt;/h2&gt;
+&lt;p&gt;Hello everyone! It is so nice to know you are interested in my life. In this short artcicle I am going to tell you about my past week.&lt;/p&gt;
+&lt;p&gt;So, this week I was very productive. I did two labs, took part in university concert, did a lot of homework and even slept well enough.&lt;/p&gt;
+&lt;p&gt;At the same time, I had time to walk with my friends, go on dates, celebrate the International Women Day and even go to the concert of my favourite boys band.&lt;/p&gt;
+&lt;p&gt;Hope that it was interesting for you to read.&lt;/p&gt;
+&lt;p&gt;See you next week!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

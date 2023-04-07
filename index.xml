@@ -33,6 +33,102 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Fri, 07 Apr 2023 18:06:32 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
+&lt;h1 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown:&lt;/h1&gt;
+&lt;p&gt;To create a title, use the sign ( # ), for example, look above! Do you see big text? It is the title!&lt;/p&gt;
+&lt;p&gt;To make the text &lt;strong&gt;bold&lt;/strong&gt;, enclose it in double asterisks.&lt;/p&gt;
+&lt;p&gt;To set an &lt;em&gt;italic&lt;/em&gt; font for the text, enclose it in single asterisks.&lt;/p&gt;
+&lt;p&gt;To set &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, enclose it in triple
+asterisks.&lt;/p&gt;
+&lt;p&gt;The bulleted list can be formatted using asterisks or dashes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;yes.&lt;/li&gt;
+&lt;li&gt;it is a fact.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ordered list can be formatted using the appropriate numbers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don’t you believe me?&lt;/li&gt;
+&lt;li&gt;See for yourself.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h1&gt;
+&lt;p&gt;Implementations of Markdown are available for over a dozen programming languages; in addition, many platforms and frameworks support Markdown. For example, Markdown plugins exist for every major blogging platform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week2/</link>
+      <pubDate>Fri, 07 Apr 2023 13:47:12 +0300</pubDate>
+      <guid>https://example.com/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;my-story&#34;&gt;My story&lt;/h2&gt;
+&lt;p&gt;Hello everyone! It is so nice to know you are interested in my life. In this short artcicle I am going to tell you about my past week.&lt;/p&gt;
+&lt;p&gt;So, this week I wasn&amp;rsquo;t as productive as on the previoust one. I fall a bit ill and tried to do two and a half labs, I did a lot of homework and, thus, wasn&amp;rsquo;t able to sleep enough.&lt;/p&gt;
+&lt;p&gt;At the same time, I went to my hometown and visited my family with friends.&lt;/p&gt;
+&lt;p&gt;Hope that it was interesting for you to read.&lt;/p&gt;
+&lt;p&gt;See you next week!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is Git?</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Tue, 14 Mar 2023 14:40:17 +0300</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+&lt;p&gt;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/p&gt;
+&lt;p&gt;Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.&lt;/p&gt;
+&lt;h2 id=&#34;git-functions&#34;&gt;Git functions&lt;/h2&gt;
+&lt;p&gt;If we speak about Git functions in general:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git is used to tracking changes in the source code&lt;/li&gt;
+&lt;li&gt;The distributed version control tool is used for source code management&lt;/li&gt;
+&lt;li&gt;It allows multiple developers to work together&lt;/li&gt;
+&lt;li&gt;It supports non-linear development through its thousands of parallel branches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;branches&#34;&gt;Branches&lt;/h2&gt;
+&lt;p&gt;The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.&lt;/p&gt;
+&lt;p&gt;Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.&lt;/p&gt;
+&lt;p&gt;This means that you can do things like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frictionless Context Switching&lt;/strong&gt;. Create a branch to try out an idea, commit a few times, switch back to where you branched from, apply a patch, switch back to where you are experimenting, and merge it in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role-Based Codelines&lt;/strong&gt;. Have a branch that always contains only what goes to production, another that you merge work into for testing, and several smaller ones for day to day work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feature Based Workflow&lt;/strong&gt;. Create new branches for each new feature you&amp;rsquo;re working on so you can seamlessly switch back and forth between them, then delete each branch when that feature gets merged into your main line.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disposable Experimentation&lt;/strong&gt;. Create a branch to experiment in, realize it&amp;rsquo;s not going to work, and just delete it - abandoning the work—with nobody else ever seeing it (even if you&amp;rsquo;ve pushed other branches in the meantime).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;git-features&#34;&gt;Git features&lt;/h2&gt;
+&lt;p&gt;Features of Git&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracks history&lt;/li&gt;
+&lt;li&gt;Free and open source&lt;/li&gt;
+&lt;li&gt;Supports non-linear development&lt;/li&gt;
+&lt;li&gt;Creates backups&lt;/li&gt;
+&lt;li&gt;Scalable&lt;/li&gt;
+&lt;li&gt;Supports collaboration&lt;/li&gt;
+&lt;li&gt;Branching is easier&lt;/li&gt;
+&lt;li&gt;Distributed development&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Tue, 14 Mar 2023 14:23:49 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;my-story&#34;&gt;My Story&lt;/h2&gt;
+&lt;p&gt;Hello everyone! It is so nice to know you are interested in my life. In this short artcicle I am going to tell you about my past week.&lt;/p&gt;
+&lt;p&gt;So, this week I was very productive. I did two labs, took part in university concert, did a lot of homework and even slept well enough.&lt;/p&gt;
+&lt;p&gt;At the same time, I had time to walk with my friends, go on dates, celebrate the International Women Day and even go to the concert of my favourite boys band.&lt;/p&gt;
+&lt;p&gt;Hope that it was interesting for you to read.&lt;/p&gt;
+&lt;p&gt;See you next week!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-754613298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-612497538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-754613298&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-612497538&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
