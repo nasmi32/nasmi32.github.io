@@ -5,12 +5,28 @@
     <link>https://example.com/category/aboutme/</link>
       <atom:link href="https://example.com/category/aboutme/index.xml" rel="self" type="application/rss+xml" />
     <description>AboutMe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Apr 2023 13:47:12 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 15:47:15 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>AboutMe</title>
       <link>https://example.com/category/aboutme/</link>
     </image>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week3/</link>
+      <pubDate>Mon, 24 Apr 2023 15:47:15 +0300</pubDate>
+      <guid>https://example.com/post/last_week3/</guid>
+      <description>&lt;p&gt;Two weeks ago, I decided to spend the next week better than the previous one. And a week ago I promised that this week would be more colorful and productive&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;but-did-i-manage-to-keep-my-promise&#34;&gt;But did I manage to keep my promise?&lt;/h2&gt;
+&lt;p&gt;I &lt;strong&gt;didn&amp;rsquo;t waste any time&lt;/strong&gt; this week and I’m very happy with that. I studied a lot, did all the tasks and even had time to walk 20 km with my friends. But unfortunately, I fell ill this week.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-possible-to-call-this-week-productive&#34;&gt;Is it possible to call this week productive?&lt;/h2&gt;
+&lt;p&gt;It seems to me that it is &lt;strong&gt;very important&lt;/strong&gt; to find time for rest and communication, so this aspect is not only about working. I succeed.&lt;/p&gt;
+&lt;h2 id=&#34;will-the-next-week-more-productive&#34;&gt;Will the next week more productive?!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m not sure I can be more productive next week, however I should because of the amount of tasks I was given. So I’ll try to &lt;strong&gt;do my best&lt;/strong&gt; next week.&lt;/p&gt;
+&lt;p&gt;Thank you for your attention! See you soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My week</title>

@@ -5,12 +5,32 @@
     <link>https://example.com/tag/learning/</link>
       <atom:link href="https://example.com/tag/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Apr 2023 18:06:32 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 15:47:51 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Learning</title>
       <link>https://example.com/tag/learning/</link>
     </image>
+    
+    <item>
+      <title>Make a report with me</title>
+      <link>https://example.com/post/reportmaking/</link>
+      <pubDate>Mon, 24 Apr 2023 15:47:51 +0300</pubDate>
+      <guid>https://example.com/post/reportmaking/</guid>
+      <description>&lt;h2 id=&#34;know-more-about-making-a-report&#34;&gt;Know more about making a report!&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Every week&lt;/strong&gt;&lt;/em&gt; we do laboratory work. Then we should prepare a report for our labs. We make reports for laboratory work in the lightweight markup language &lt;strong&gt;markdown&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is MARKDOWN?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-we-execute-the-report&#34;&gt;How do we execute the report?&lt;/h2&gt;
+&lt;p&gt;For each laboratory work, we have a &lt;em&gt;template&lt;/em&gt; that we need to fill in with all the necessary information.&lt;/p&gt;
+&lt;p&gt;The title page of the report contains information about the &lt;em&gt;number&lt;/em&gt; of the lab, the &lt;em&gt;topic&lt;/em&gt; and the &lt;em&gt;author&lt;/em&gt; of the report. Next, we describe the &lt;em&gt;purpose&lt;/em&gt; of the laboratory work, the &lt;em&gt;task&lt;/em&gt;, as well as a &lt;em&gt;theoretical introduction&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;And then the description of the main part of the work begins. &lt;em&gt;&lt;strong&gt;Description of the work.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We should describe the accomplishment of the work as &lt;em&gt;fully and clearly&lt;/em&gt; as possible.&lt;/p&gt;
+&lt;p&gt;To do this, we can divide the job description into several parts, insert screenshots, etc.&lt;/p&gt;
+&lt;h2 id=&#34;what-for&#34;&gt;What for?&lt;/h2&gt;
+&lt;p&gt;Creating a report is an &lt;strong&gt;important stage&lt;/strong&gt; of laboratory work, because it is during the execution of the report that the material is consolidated and its full awareness occurs.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>
