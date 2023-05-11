@@ -5,12 +5,45 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 15:47:51 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 May 2023 13:07:51 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Programming in science</title>
+      <link>https://example.com/post/programming_and_science/</link>
+      <pubDate>Thu, 11 May 2023 13:07:51 +0300</pubDate>
+      <guid>https://example.com/post/programming_and_science/</guid>
+      <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for cinema are created with its help. But initially programming was intended to solve scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who decide to link their careers with computer development.&lt;/p&gt;
+&lt;p&gt;Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, “smart” management systems for urban and agricultural management, stock exchanges are waiting for their implementation; waiting for robotics, genetic engineering, artificial intelligence that surpasses human capabilities.&lt;/p&gt;
+&lt;h1 id=&#34;specializations&#34;&gt;Specializations&lt;/h1&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of problem and the preferences of the author. Historically, the first high-level programming language is Fortran, it has many debugged libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively. Python has a simpler syntax, which is also suitable for programming mathematical calculations. The Python language is used for data processing in mathematics, physics, economics, biology, chemistry and can work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows you to program on the .NET platform, adapt the program to the common language runtime (CLR), and accelerate development within the framework of operational scientific sessions.&lt;/p&gt;
+&lt;h1 id=&#34;the-future-of-the-programmer-scientist-profession&#34;&gt;The future of the programmer-scientist profession&lt;/h1&gt;
+&lt;p&gt;Programming drives science, which drives technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the 21st century: a microwave oven, a mobile phone, an 8-bit home computer. It depends on the programmer-scientist what peaks science will reach today and which of them will enter every house tomorrow.&lt;/p&gt;
+&lt;p&gt;In the hands of the programmer-scientist are the tools not only to develop the industry, but also to improve the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to predict and prevent climate, financial, and humanitarian disasters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week4/</link>
+      <pubDate>Thu, 11 May 2023 13:07:36 +0300</pubDate>
+      <guid>https://example.com/post/last_week4/</guid>
+      <description>&lt;p&gt;Every week I make a wish that I will spend the next week more productively and interestingly. Surely, you have already noticed this in my regular posts.&lt;/p&gt;
+&lt;p&gt;As for this week, it&amp;rsquo;s hard to say whether it worked out this time.&lt;/p&gt;
+&lt;p&gt;On the one hand, I did not make much progress in my studies this week, although I still answered in class and did all my homework.&lt;/p&gt;
+&lt;p&gt;On the other hand, I was able to achieve the goal that I set myself a week ago. I went to my hometown Bryansk and met my friends here. I was on two birthdays and one more is coming, so now I’m thinking about a present.&lt;/p&gt;
+&lt;p&gt;Spring is in full swing and summer is just around the corner! I think many of you are tired, as am I. I assure you that very soon we will be able to relax and take care of ourselves and loved ones. But it takes a little more effort.&lt;/p&gt;
+&lt;p&gt;Thank you for your attention.&lt;/p&gt;
+&lt;p&gt;Best wishes, Nastya.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Make a report with me</title>
@@ -328,7 +361,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749218536&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271546839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -338,7 +371,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749218536&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-271546839&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

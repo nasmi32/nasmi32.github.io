@@ -5,12 +5,27 @@
     <link>https://example.com/tag/mylife/</link>
       <atom:link href="https://example.com/tag/mylife/index.xml" rel="self" type="application/rss+xml" />
     <description>MyLife</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 15:47:15 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 May 2023 13:07:36 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>MyLife</title>
       <link>https://example.com/tag/mylife/</link>
     </image>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week4/</link>
+      <pubDate>Thu, 11 May 2023 13:07:36 +0300</pubDate>
+      <guid>https://example.com/post/last_week4/</guid>
+      <description>&lt;p&gt;Every week I make a wish that I will spend the next week more productively and interestingly. Surely, you have already noticed this in my regular posts.&lt;/p&gt;
+&lt;p&gt;As for this week, it&amp;rsquo;s hard to say whether it worked out this time.&lt;/p&gt;
+&lt;p&gt;On the one hand, I did not make much progress in my studies this week, although I still answered in class and did all my homework.&lt;/p&gt;
+&lt;p&gt;On the other hand, I was able to achieve the goal that I set myself a week ago. I went to my hometown Bryansk and met my friends here. I was on two birthdays and one more is coming, so now I’m thinking about a present.&lt;/p&gt;
+&lt;p&gt;Spring is in full swing and summer is just around the corner! I think many of you are tired, as am I. I assure you that very soon we will be able to relax and take care of ourselves and loved ones. But it takes a little more effort.&lt;/p&gt;
+&lt;p&gt;Thank you for your attention.&lt;/p&gt;
+&lt;p&gt;Best wishes, Nastya.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My week</title>

@@ -33,6 +33,39 @@
     </item>
     
     <item>
+      <title>Programming in science</title>
+      <link>https://example.com/post/programming_and_science/</link>
+      <pubDate>Thu, 11 May 2023 13:07:51 +0300</pubDate>
+      <guid>https://example.com/post/programming_and_science/</guid>
+      <description>&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for cinema are created with its help. But initially programming was intended to solve scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who decide to link their careers with computer development.&lt;/p&gt;
+&lt;p&gt;Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, “smart” management systems for urban and agricultural management, stock exchanges are waiting for their implementation; waiting for robotics, genetic engineering, artificial intelligence that surpasses human capabilities.&lt;/p&gt;
+&lt;h1 id=&#34;specializations&#34;&gt;Specializations&lt;/h1&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of problem and the preferences of the author. Historically, the first high-level programming language is Fortran, it has many debugged libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively. Python has a simpler syntax, which is also suitable for programming mathematical calculations. The Python language is used for data processing in mathematics, physics, economics, biology, chemistry and can work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows you to program on the .NET platform, adapt the program to the common language runtime (CLR), and accelerate development within the framework of operational scientific sessions.&lt;/p&gt;
+&lt;h1 id=&#34;the-future-of-the-programmer-scientist-profession&#34;&gt;The future of the programmer-scientist profession&lt;/h1&gt;
+&lt;p&gt;Programming drives science, which drives technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the 21st century: a microwave oven, a mobile phone, an 8-bit home computer. It depends on the programmer-scientist what peaks science will reach today and which of them will enter every house tomorrow.&lt;/p&gt;
+&lt;p&gt;In the hands of the programmer-scientist are the tools not only to develop the industry, but also to improve the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to predict and prevent climate, financial, and humanitarian disasters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/last_week4/</link>
+      <pubDate>Thu, 11 May 2023 13:07:36 +0300</pubDate>
+      <guid>https://example.com/post/last_week4/</guid>
+      <description>&lt;p&gt;Every week I make a wish that I will spend the next week more productively and interestingly. Surely, you have already noticed this in my regular posts.&lt;/p&gt;
+&lt;p&gt;As for this week, it&amp;rsquo;s hard to say whether it worked out this time.&lt;/p&gt;
+&lt;p&gt;On the one hand, I did not make much progress in my studies this week, although I still answered in class and did all my homework.&lt;/p&gt;
+&lt;p&gt;On the other hand, I was able to achieve the goal that I set myself a week ago. I went to my hometown Bryansk and met my friends here. I was on two birthdays and one more is coming, so now I’m thinking about a present.&lt;/p&gt;
+&lt;p&gt;Spring is in full swing and summer is just around the corner! I think many of you are tired, as am I. I assure you that very soon we will be able to relax and take care of ourselves and loved ones. But it takes a little more effort.&lt;/p&gt;
+&lt;p&gt;Thank you for your attention.&lt;/p&gt;
+&lt;p&gt;Best wishes, Nastya.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Make a report with me</title>
       <link>https://example.com/post/reportmaking/</link>
       <pubDate>Mon, 24 Apr 2023 15:47:51 +0300</pubDate>
@@ -348,7 +381,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749218536&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271546839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -358,7 +391,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749218536&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-271546839&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -837,24 +870,41 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
       <link>https://example.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Intel</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h1 id=&#34;lets-talk-about-intel&#34;&gt;Let’s talk about Intel!&lt;/h1&gt;
+&lt;p&gt;For sure, many people know the prototype of the emergence of successful technology firms: a modest beginning, a struggle with circumstances, outsider founders and more. For example, it is enough to recall Bill Gates with Microsoft or Steve Jobs with Apple, who started their activities literally in basements or garages. But Intel was created differently.&lt;/p&gt;
+&lt;p&gt;The founders of the company were not young ambitious rebels, but respectable men who had a solid reputation in the industry at that time. Gordon Moore and Robert Noyce did not need to look for money for years to launch the enterprise, instead they collected $ 2.3 million in half a day. Soon they were joined as a co-founder by Andrew Grove, who for many years became the head of production at Intel. And although Robert Noyce himself often called the company a &amp;ldquo;three–headed monster,&amp;rdquo; in fact, another person was present during its creation - marketing star Bob Graham.&lt;/p&gt;
+&lt;h1 id=&#34;what-seems-to-me-important-and-interesting-in-the-structure-of-the-company&#34;&gt;What seems to me important and interesting in the structure of the company.&lt;/h1&gt;
+&lt;p&gt;At that time, all technology companies had a clearly established &amp;ldquo;vertical of power&amp;rdquo;, that is, each employee could interact only with his immediate superior and those who are below him in this structure. No other way. However, Noyce and Moore wanted everyone who has interesting ideas not to be afraid to express them, and everyone who has a question to ask it. Thus, no one (even the founders) could refuse to help or answer someone&amp;rsquo;s question. Even meetings at Intel were held in, so to speak, in an &amp;ldquo;open&amp;rdquo; format, that is, anyone who thought they could be useful at this meeting could attend it.&lt;/p&gt;
+&lt;h1 id=&#34;whats-it-is-it-a-revolution-or-just-a-stage-in-the-industry-that-no-one-will-notice&#34;&gt;What&amp;rsquo;s it? Is it a revolution or just a stage in the industry that no one will notice?&lt;/h1&gt;
+&lt;p&gt;When the company was particularly in need of orders, an offer was received for the design and production of a circuit of eight logic chips designed specifically for the customer&amp;rsquo;s calculator, however, due to certain circumstances, another decision was made – to assemble a miniature household computer and program it to perform arithmetic operations for the customer&amp;rsquo;s calculator. As a result, having lost a significant part of the profit, as a result of the revision of the license agreement, Intel gets the rights to sell the design to other consumers. It was this decision that allowed Intel to become the company it is. However, the 4004 (the first microprocessor based on this chip), although it was an innovation, did not have the opportunity to take a place &amp;ldquo;inside real computers&amp;rdquo;, since it could process only 4 bits of information at the same time.&lt;/p&gt;
+&lt;p&gt;Subsequently, Intel has already released an eight-bit 8008, which in many respects corresponded, but also in many ways inferior to the 4004.&lt;/p&gt;
+&lt;p&gt;In 1978, it appeared, the first hexadecimal 8086 processor, it was backward compatible with the previous model, which allowed using the texts of already written programs.  Then the 8088 also appears, built on the basis of the 8086, half of the address bus was disabled, and it was limited to performing eight-bit operations, but it was significantly faster than previous eight-bit developments.&lt;/p&gt;
+&lt;p&gt;The x86 architecture became the industry standard, in 1982 the 80186 and 80286 were released. Reducing the number of individual chips and simultaneously increasing the number of functions of the processor itself made it possible to make processors more productive, and the system simpler and cheaper.&lt;/p&gt;
+&lt;p&gt;The first 32-bit i386 processor (80386) was released in 1985, which also retained backward compatibility with 8086 and 80286. i486 was released in 1989, contained more than a million (1.2 million) transistors, and worked twice as fast as 80386.&lt;/p&gt;
+&lt;p&gt;At that time, computer buyers paid attention only to the brand of the PC itself, and did not attach any importance to what kind of processor was inside. Therefore, in order to show users that the main part of the computer is the processor, and it should serve as the basis for choosing a PC, Intel decides on an unusual step – the &amp;ldquo;Intel Inside&amp;rdquo; advertising campaign.&lt;/p&gt;
+&lt;p&gt;In 1993, the Pentium appeared. And, it would seem, Intel is ahead of everyone again, but no!&lt;/p&gt;
+&lt;p&gt;Everything is going well until an unknown professor Thomas Knisley decides to divide one number by another. And here&amp;rsquo;s the bad luck! Gets an incorrect result, and realizes that this is an error in the processor. The scandal is growing at an incredible rate.&lt;/p&gt;
+&lt;p&gt;Pentium Pro appeared as a &amp;ldquo;replacement&amp;rdquo; for Pentium, but eventually becomes more of a processor for servers and workstations.&lt;/p&gt;
+&lt;p&gt;In 1997, the real replacement for the Pentium was the Pentium II.&lt;/p&gt;
+&lt;p&gt;In the first versions of the Pentium III there were slightly less than 10 million transistors, and already another model (one of the last) contains about 44 million.&lt;/p&gt;
+&lt;p&gt;The Pentium 4 barely overtook its predecessor.&lt;/p&gt;
+&lt;p&gt;Pentium M is an exceptional architecture for laptops.&lt;/p&gt;
+&lt;p&gt;In recent years, Intel&amp;rsquo;s main goal has been to reduce power consumption and, as a result, reduce temperature, new processors do not differ as much in performance from previous ones as before.&lt;/p&gt;
+&lt;p&gt;Intel, created more than half a century ago, was different from other companies in the industry from the very moment of its creation, and even then it was not difficult to predict its success. However, no one could have imagined such a triumph, for sure.&lt;/p&gt;
+&lt;p&gt;Almost from the very beginning of the company&amp;rsquo;s work, the most interesting history of the emergence and development of microprocessors originates. It is unknown what the industry would be like now if it were not for a number of decisions made by the founders and heads of the corporation, as well as the long-term work of brilliant engineers from Intel, whose developments served as the foundation of the technological revolution of the XX century. Today Intel can rightfully be called the largest and most famous corporation for the production of microprocessors.&lt;/p&gt;
+</description>
     </item>
     
     <item>
