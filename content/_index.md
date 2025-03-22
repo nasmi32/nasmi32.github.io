@@ -1,22 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-03-22
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Неравновесная агрегация, фракталы
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        Состав исследовательской группы: Ищенко И. О., Мишина А. А., Дикач А. О., Барсегян В. Л., Галацан Н. И., Дудырев Г. А.
+          
   - block: collection
     content:
       title: Latest News

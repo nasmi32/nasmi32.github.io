@@ -1,24 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anastasiya Mishina
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Anastasiya
+last_name: Mishina
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of RUDN
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Российский университет дружбы народов
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
