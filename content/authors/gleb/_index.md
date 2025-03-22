@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Анастасия Мишина
+title: Глеб Дудырев
 
 # Full Name (for SEO)
-first_name: Анастасия
-last_name: Мишина
+first_name: Глеб
+last_name: Дудырев
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,7 +38,7 @@ social:
     link: '1132226532@pfur.ru'
   - icon: github
     icon_pack: fab
-    link: https://github.com/nasmi32
+    link: https://github.com/GlebDudyrev
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,4 +57,4 @@ user_groups:
   - Researchers
 ---
 
-Студент группы НПИбд-02-22.
+Студент группы НПИбд-01-22.
