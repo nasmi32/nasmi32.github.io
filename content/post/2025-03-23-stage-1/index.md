@@ -1,11 +1,16 @@
 ---
 title: "Отчёт по первому этапу проекта"
+authors:
+ - admin
+ - irina
 date: 2025-03-22
 ---
 
 Защита первого этапа проекта:
 
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/4bf954e2a5123b8e7c6174022871ec5d/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<!--more-->
 
 <iframe width="720" height="405" src="https://plvideo.ru/embed/Wt9KLU6up6qV" title="Platform video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
