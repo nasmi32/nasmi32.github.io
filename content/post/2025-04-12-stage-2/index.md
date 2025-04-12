@@ -14,6 +14,7 @@ date: 2025-04-11
 
 <iframe width="720" height="405" src="https://plvideo.ru/watch?v=bYsc3mvq8Rki" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
+
 # Введение
 
 **Цель работы**
