@@ -12,11 +12,11 @@ date: 2025-05-14
 
 Защита четвертого этапа проекта:
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/49560c06ba199e49a2e448932d7166fa/?p=jr9iP-YHlyou0KAXY6ugUg" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/df9b66949c50aa897c8d73e2f9c1dc1c" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!--more-->
 
-<iframe width="720" height="405" src="https://plvideo.ru/embed/fO9BfahNsPpi" title="Platform video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://plvideo.ru/watch?v=OnwPdl4LpMel" title="Platform video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Введение
 
